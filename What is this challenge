@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> What is this Challenge </title>
+	<link rel="stylesheet" href="styles.css">
+</head>
+<header>
+	<h1>How did this challenge start? </h1>
+	</header>
+	<nav>
+	<ul>
+	<li> <a href= "index.html"> Home </a></li>
+	<li>What is this Challenge</li>
+	<li><a href= "HowitStarted.html">How it Started</a></li>
+	<li><a href="X">Name of link</a></li>
+	<li><a href="X">Name of link</a></li>
+	<li><a href="X">Name of link</a></li>
+	<li><a href="X">Name of link</a></li>
+	<li><a href="GetHelp.html">How to get Some Help</a></li>    
+	</ul>
+	</nav>
+	<section>
+    	<br/>
+	<p> Blue whale is a challenge where it involves suicide. It is a "game" where you do daily tasks over 50 days, and the last task is suicide. The game involves sharing photos of the task they've done it starts out easy like watching a horror movie an when the "game" proceeds it becomes darker like pulling all nighters and craving the whale symbol into their arm, then the game will end with suicide. This "game" leads to suicide because this game is blackmail. If the player refuses to play along their personal and private information will be released, but this is the belief this could just be a bluff, and the final task of the game is to commit suicide. Children that are depressed are more likely vulnerable, if they're on their devices a lot more than usual there could be a problem. At first there was no evidence this game was an actual thing and it was all claims from families saying they were doing this task. This game apparently originated in Russia. The creator claims he influenced 17 deaths with 28 more ready to kill themselves, but World wide this game can be responsible for 130 deaths at least.  </p>
+	<img src="img/challengeList.jpeg">
+	<img src="img/bluewhalechallenge.jpg">    
+	</section>
+    
+    
+
+
