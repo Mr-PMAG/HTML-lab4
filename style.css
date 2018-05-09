@@ -1,0 +1,38 @@
+body{
+	background-color: #4395d8;
+}
+.home {
+	background-image: url(img/homeimg.jpg);
+}
+.Instagram {
+	float:right;
+	position: absolute;
+	right: 0px;
+	padding: 10px;
+}
+h1 {
+	text-align: center;
+}
+nav{
+	float:inherit;
+    
+}
+nav li{
+	padding-bottom: 5px;
+	float: left;
+}
+nav li a {
+	color: black;
+	padding: 10px 5px;
+	text-decoration: inherit;
+}
+
+nav li a:hover {
+	color:white;
+
+}
+nav ul {
+	list-style-type: none;
+	padding: 0;
+	background-color: cadetblue;
+}
